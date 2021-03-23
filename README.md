@@ -13,8 +13,7 @@
 * Button Rec pauses/resumes playback.
 * Button Clear resets playback in all channels (jump to step 0).
 ### Added/modified features:
-* Expanded to 9 tracks over 3 banks (press bank button to cycle thru)
+* Expanded to 9 tracks over 3 banks
 * Pad rows 1-3 reset just that generator to the selected step
-* Bottom row pads 1-3 select and indicate current bank
+* Bottom row pads 1-3 select and indicate current bank (Bank button also cycles thru)
 * Outputs: Bank 1=1,4,7 Bank 2=2,5,8 Bank 3=3,6,9
-
