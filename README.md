@@ -1,9 +1,8 @@
-# preset-things
-Custom firmwares for the Polyend Preset eurorack module.
+# Custom firmwares for the Polyend Preset eurorack module.
 
-First app is an extended version of the Euclidean example in the Polyend Preset Sandbox at https://github.com/polyend/PresetSandbox
+## First app is an extended version of the Euclidean example in the Polyend Preset Sandbox at https://github.com/polyend/PresetSandbox
 
-## Features:
+## Current Progress:
 ### Original features:
 * Implements 3-track Euclidean sequencer.
 * Input receives clock signal.
@@ -15,7 +14,7 @@ First app is an extended version of the Euclidean example in the Polyend Preset 
 * Button Clear resets playback in all channels (jump to step 0).
 ### Added/modified features:
 * Expanded to 9 tracks over 3 banks (press bank button to cycle thru)
-* encoder LEDs 1-3 indicate current bank
-#### Outputs:
-* Bank 1: 1,4,7 Bank 2: 2,5,8 Bank 3: 3,6,9
+* Pad rows 1-3 reset just that generator to the selected step
+* Bottom row pads 1-3 select and indicate current bank
+* Outputs: Bank 1=1,4,7 Bank 2=2,5,8 Bank 3=3,6,9
 
